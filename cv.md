@@ -1,7 +1,7 @@
 # Alexander Peretoko
 
-## Contacts 
-- **Location:** Russia, Moscow 
+## Contacts
+- **Location:** Russia, Moscow
 - **Phone:**  +7 926 106 65 13
 - **Email:** peretoko@bk.ru
 - **GitHub:** [peretokoai](https://github.com/peretokoai)
@@ -30,7 +30,7 @@ HTML/HTML5, CSS3/SASS, BEM
 Stepik - HTML, CSS - https://stepik.org/course/114109/syllabus
 
 ## Language:
-- English - A1 
+- English - A1
 - Russian - native
 
 ## My works
